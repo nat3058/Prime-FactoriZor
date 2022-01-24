@@ -1,7 +1,7 @@
 # Prime-Factorization
 A program that prime factorizes an given number by using recurision...since doing prime factorization by hand looks very similar to a tree data structure
 
-###To-Do:
+# To-Do:
 - write out the ReadMe in Emacs
 - follow the tips on the other websites 
 - mention that this program is self checking (aka it will validate the results)
