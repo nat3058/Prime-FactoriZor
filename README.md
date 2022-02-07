@@ -8,8 +8,8 @@ A command line program that prime factorizes an given number by using recurision
 - No fancy GUI or bloatedness; just use it through a computer terminal :) 
 
 # Installation
-1.) Download the .cpp file from this Github Repository. 
-2.) Make sure you have g++ compilier on your computer and compile the file with this Terminal command
+1.) Download the .cpp file from this Github Repository. <br>
+2.) Make sure you have the g++ compilier on your computer and compile the file with this Terminal command
 ```bash
 g++ prime_factorization.cpp -o prime_factorization.exe
 ```
