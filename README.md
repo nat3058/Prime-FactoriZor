@@ -29,4 +29,7 @@ g++ prime_factorization.cpp -o prime_factorization.exe
 - took me about 9ish hours to build (built entirely from scratch)
 - anyone can contribute (For now, I don't forsee myself adding on to this project much in the future)
 - email me with any thoughts or suggestions: nnakkapa *at* umich.edu
+
+#License: 
+GNU General Public License v3.0
     
