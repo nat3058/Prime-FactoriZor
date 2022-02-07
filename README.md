@@ -30,6 +30,6 @@ g++ prime_factorization.cpp -o prime_factorization.exe
 - anyone can contribute (For now, I don't forsee myself adding on to this project much in the future)
 - email me with any thoughts or suggestions: nnakkapa *at* umich.edu
 
-#License: 
+# License: 
 GNU General Public License v3.0
     
