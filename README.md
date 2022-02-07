@@ -1,16 +1,32 @@
-# Prime-Factorization
-A program that prime factorizes an given number by using recurision...since doing prime factorization by hand looks very similar to a tree data structure
+# Prime-FactoriZor
+A command line program that prime factorizes an given number by using recurision...since doing prime factorization by hand looks very similar to a tree data structure
 
+# Features
+- LARGE numbers: an calulate prime factorizations of very large numbers with ease (depends on the funkiness of the prime factorization, such as the number having really large primes as a part of its factorization)
+- Human generated input: you supply the number, the program will do the rest
+- Guarenteed Correctness: The program will self vaildate whether its prime factorization was actually correct (by multiplying all the prime factors the programe came up with) to ensure it is giving you the correct prime factorization 
+- No fancy GUI or bloatedness; just use it through a computer terminal :) 
+
+# Installation
+1.) Download the .cpp file from this Github Repository 
+2.) Make sure you have g++ compilier on your computer and compile the file
+```bash
+g++ prime_factorization.cpp -o prime_factorization.exe
+```
+3.) Then run the program like so:
+``` bash
+./prime_factorization.exe
+```
+4.) Have fun using the program by inputting any number you want
 # To-Do:
-- write out the ReadMe in Emacs
-- follow the tips on the other websites 
-- mention that this program is self checking (aka it will validate the results)
-- meant to handle large numbers if necessary, 
-- run time is not necessarily longer for larger numbers (run time is more dependent on the funkiness of the prime factors)
-- took me about 9ish hours to build (kinda slow)
 - Future versions:
     - make it faster (somehow)
     - add ANSI colors to the terminal output so it looks nice too look it
-    - output the values as a tree structure diagram (like humans do when doing prime factorization by hand)
-    - make a python version of this code but with multi threading (blindingly fast!)
+    - output the values but in a tree structure diagram (like humans do when doing prime factorization by hand)
+          - this might be kinda hard and annoying to do as the only GUI for this program is the Terminal
+    - make a Python version of this code but with multi-threading (blindingly fast!?)
+# Misc.
+- took me about 9ish hours to build (built entirely from scratch)
+- anyone can contribute (For now, I don't forsee myself adding on to this project much in the future)
+- email me with any thoughts or suggestions: nnakkapa *at* umich.edu
     
