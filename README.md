@@ -4,12 +4,12 @@ A command line program that prime factorizes an given number by using recurision
 # Features
 - LARGE numbers: an calulate prime factorizations of very large numbers with ease (depends on the funkiness of the prime factorization, such as the number having really large primes as a part of its factorization)
 - Human generated input: you supply the number, the program will do the rest
-- Guarenteed Correctness: The program will self vaildate whether its prime factorization was actually correct (by multiplying all the prime factors the programe came up with) to ensure it is giving you the correct prime factorization 
+- Guarenteed Correctness: The program will self vaildate whether its prime factorization was actually correct (by multiplying all the prime factors the program came up with) to ensure it is giving you the correct prime factorization 
 - No fancy GUI or bloatedness; just use it through a computer terminal :) 
 
 # Installation
 1.) Download the .cpp file from this Github Repository 
-2.) Make sure you have g++ compilier on your computer and compile the file
+2.) Make sure you have g++ compilier on your computer and compile the file with this Terminal command
 ```bash
 g++ prime_factorization.cpp -o prime_factorization.exe
 ```
